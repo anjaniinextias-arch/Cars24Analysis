@@ -1,0 +1,6 @@
+reconciliation_component,row_count
+"1. Operations Raw Inspection Log Count",17135
+"2. LESS: Duplicate Inspection Records (Ops System Glitch)",-286
+"3. LESS: Ghost / Fake Inspections (Dist > 20km & Duration < 5min)",-400
+"4. ADD: Orphaned Records (Present in Finance File, Missing in Ops Sheet)",675
+"5. Final Clean Reconciled Finance Inspection Count",17124
