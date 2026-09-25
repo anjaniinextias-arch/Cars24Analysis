@@ -33,11 +33,11 @@ Each completed vendor inspection costs about ₹450, so lead-to-inspection conve
 | A1 | August lead-to-inspection conversion (raw) | 27.88% (4,872 / 17,478) | See "Points to verify" |
 | A2 | Unique sellers | 44,701 | Confirm the uniqueness key (phone vs customer ID) |
 | A3 | Duplicate rows in inspections | 286 | |
-| A4 | Inspections >20 km from seller pin and <5 min | _[406, 2.3%]_ |in August Fake cases increases to 206, and in July it was 190 in June it was 0 |
+| A4 | Inspections >20 km from seller pin and <5 min | _[406,2.3%]_ |in August Fake cases increases to 206, and in July it was 190 in June it was 0 |
 | A5 | % of A4 by vendor-partner inspectors | 23.38% | Confirm the base is the A4 set |
 | A6 | Lucknow call connect rate after 21 Jul | 25.86% (by leads) / 25.97% (unique phones) | State which is the headline |
 | A7 | Show-up rate, lead-to-slot wait > 48h | 71.34% (1,327 / 1,860, all appts) / 84.52% (1,327 / 1,570, excl. cancelled) | State which is the headline |
-| A8 | Contribution (₹), 2012-or-older cars, Jaipur + Lucknow | _[₹4,67,41,381, 16.78% Purchase Contribution ]_ |Jaipur + Lucknow are the main region for dales down|
+| A8 | Contribution (₹), 2012-or-older cars, Jaipur + Lucknow | _[₹4,67,41,381, 16.78% Purchase Contribution ]_ |Jaipur + Lucknow are the main region for sales down|
 | A9 | Offers whose `inspection_id` is not in inspections | 675 | |
 | A10 | Purchase rate, offer revised down >10% | 16.04% (346 / 2,157) | |
 | A11 | Purchase rate, no revision | 69.54% (1,931 / 2,777) | |
