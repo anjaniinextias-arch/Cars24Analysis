@@ -41,9 +41,9 @@ Each completed vendor inspection costs about ₹450, so lead-to-inspection conve
 | A9 | Offers whose `inspection_id` is not in inspections | 675 | |
 | A10 | Purchase rate, offer revised down >10% | 16.04% (346 / 2,157) | |
 | A11 | Purchase rate, no revision | 69.54% (1,931 / 2,777) | |
-| A12 | Points of the 10.1-pt drop that are not real | -10.65|
+| A12 | Points of the 10.1-pt drop that are not real | -10.65||in June 0 fake cases and in August it was 206 fake case|
 <img width="284" height="73" alt="image" src="https://github.com/user-attachments/assets/2512f796-ee88-4d82-83d3-30e056c8f07c" />
-]_ |in June 0 fake cases and in August it was 206 fake case|
+]_ 
 
 **Headline insight:** purchase rate falls from about 70% with no revision to about 16% when the offer is cut by more than 10%. This is a correlation, and the direction of causality still has to be tested (see Part C).
 
