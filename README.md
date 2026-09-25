@@ -33,15 +33,18 @@ Each completed vendor inspection costs about ₹450, so lead-to-inspection conve
 | A1 | August lead-to-inspection conversion (raw) | 27.88% (4,872 / 17,478) | See "Points to verify" |
 | A2 | Unique sellers | 44,701 | Confirm the uniqueness key (phone vs customer ID) |
 | A3 | Duplicate rows in inspections | 286 | |
-| A4 | Inspections >20 km from seller pin and <5 min | _[fill in]_ | |
+| A4 | Inspections >20 km from seller pin and <5 min | _[406, 2.3%]_ | |
 | A5 | % of A4 by vendor-partner inspectors | 23.38% | Confirm the base is the A4 set |
 | A6 | Lucknow call connect rate after 21 Jul | 25.86% (by leads) / 25.97% (unique phones) | State which is the headline |
 | A7 | Show-up rate, lead-to-slot wait > 48h | 71.34% (1,327 / 1,860, all appts) / 84.52% (1,327 / 1,570, excl. cancelled) | State which is the headline |
-| A8 | Contribution (₹), 2012-or-older cars, Jaipur + Lucknow | _[fill in, with sign]_ | |
+| A8 | Contribution (₹), 2012-or-older cars, Jaipur + Lucknow | _[₹4,67,41,381, 16.78% Purchase Contribution ]_ | |
 | A9 | Offers whose `inspection_id` is not in inspections | 675 | |
 | A10 | Purchase rate, offer revised down >10% | 16.04% (346 / 2,157) | |
 | A11 | Purchase rate, no revision | 69.54% (1,931 / 2,777) | |
-| A12 | Points of the 10.1-pt drop that are not real | _[fill in, with reasoning]_ | |
+| A12 | Points of the 10.1-pt drop that are not real | _10.65
+June has 0 fake inspections; August has 206.
+<img width="284" height="73" alt="image" src="https://github.com/user-attachments/assets/2512f796-ee88-4d82-83d3-30e056c8f07c" />
+]_ | |
 
 **Headline insight:** purchase rate falls from about 70% with no revision to about 16% when the offer is cut by more than 10%. This is a correlation, and the direction of causality still has to be tested (see Part C).
 
